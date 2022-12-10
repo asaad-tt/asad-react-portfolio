@@ -48,9 +48,9 @@ footer a {
 }
 
 @media screen and (max-width: 1024px) {
-  footer {
+  /* footer {
     margin-top: 30rem;
-  }
+  } */
 }
 
 /* * media query small devices ----------- */

@@ -8,7 +8,7 @@ const Footer = () => {
   return (
     <footer>
       <a href="#" className="footer_logo">
-        Md Asaduzzaman
+        MD ASADUZZAMAN
       </a>
       <ul className="permalinks">
         <li>

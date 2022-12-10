@@ -35,9 +35,9 @@
     grid-template-columns: 1fr 1fr;
     gap: 1.2rem;
   }
-  .portfolio {
+  /* .portfolio {
     margin-top: 30rem;
-  }
+  } */
 }
 /* media query small devices -----------*/
 @media screen and (max-width: 600px) {
@@ -45,7 +45,7 @@
     grid-template-columns: 1fr;
     gap: 1rem;
   }
-  .portfolio {
+  /* .portfolio {
     margin-top: 40rem;
-  }
+  } */
 }

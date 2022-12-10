@@ -15,7 +15,7 @@ const Portfolio = () => {
           <div className="portfolio_item_image">
             <img src={img1} alt="" />
           </div>
-          <h3>This is Project Item title</h3>
+          <h3>Awesomely Eating</h3>
           <div className="portfolio_item_cta">
             <a
               href="https://github.com/asaad-tt/awesomely-eating-client"
@@ -37,17 +37,17 @@ const Portfolio = () => {
           <div className="portfolio_item_image">
             <img src={img2} alt="" />
           </div>
-          <h3>This is Project Item title</h3>
+          <h3>Antique Bike House</h3>
           <div className="portfolio_item_cta">
             <a
-              href="https://github.com/asaad-tt/awesomely-eating-client"
+              href="https://github.com/asaad-tt/antique-bike-house"
               className="btn"
               target="_blank"
             >
               Github
             </a>
             <a
-              href="https://awesomely-eating.web.app/"
+              href="https://antique-bike-house.web.app/"
               className="btn btn-primary"
               target="_blank"
             >
@@ -60,17 +60,17 @@ const Portfolio = () => {
           <div className="portfolio_item_image">
             <img src={img3} alt="" />
           </div>
-          <h3>This is Project Item title</h3>
+          <h3>Learnex Academy</h3>
           <div className="portfolio_item_cta">
             <a
-              href="https://github.com/asaad-tt/awesomely-eating-client"
+              href="https://github.com/asaad-tt/learnex-academy-client"
               className="btn"
               target="_blank"
             >
               Github
             </a>
             <a
-              href="https://awesomely-eating.web.app/"
+              href="https://learnex-academy.web.app/"
               className="btn btn-primary"
               target="_blank"
             >
