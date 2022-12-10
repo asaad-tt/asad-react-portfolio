@@ -12,11 +12,12 @@ import Testimonials from "./Components/Testimonials/Testimonials";
 const App = () => {
   return (
     <>
-      <Header></Header>
       <Nav></Nav>
+      <Header></Header>
+
       <About></About>
-      <Experience></Experience>
-      <Services></Services>
+      {/* <Experience></Experience> */}
+      {/* <Services></Services> */}
       <Portfolio></Portfolio>
       <Testimonials></Testimonials>
       <Contact></Contact>
