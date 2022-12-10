@@ -6,7 +6,7 @@ import img3 from "../../assests/course.jpg";
 
 const Portfolio = () => {
   return (
-    <section id="portfolio">
+    <section id="project" className="portfolio">
       <h5>My Recent Work </h5>
       <h2>Projects</h2>
 
