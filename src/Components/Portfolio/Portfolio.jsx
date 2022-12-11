@@ -1,8 +1,8 @@
 import React from "react";
 import "./Portfolio.css";
-import img1 from "../../assests/food.jpg";
-import img2 from "../../assests/bike.jpg";
-import img3 from "../../assests/course.jpg";
+import img1 from "../../assests/Projects/food.jpg";
+import img2 from "../../assests/Projects/bike.jpg";
+import img3 from "../../assests/Projects/course.jpg";
 import { Link } from "react-router-dom";
 
 const Portfolio = () => {

@@ -1,6 +1,6 @@
 import React from "react";
 import "./About.css";
-import kachuri from "../../assests/kachuri.jpg";
+import kachuri from "../../assests/mePic/kachuri.jpg";
 import { FaAward } from "react-icons/fa";
 import { MdModelTraining } from "react-icons/md";
 import { RiProjectorFill } from "react-icons/ri";
