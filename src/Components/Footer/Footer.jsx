@@ -3,6 +3,7 @@ import "./Footer.css";
 import { BsFacebook } from "react-icons/bs";
 import { BsInstagram } from "react-icons/bs";
 import { BsTwitter } from "react-icons/bs";
+import { Link } from "react-router-dom";
 
 const Footer = () => {
   return (
@@ -19,6 +20,9 @@ const Footer = () => {
         </li>
         <li>
           <a href="#portfolio">Projects</a>
+        </li>
+        <li>
+          <Link to="/blog">Blog</Link>
         </li>
         <li>
           <a href="#contact">Contact</a>
